@@ -1,5 +1,6 @@
 === Coming Soon by OneTkhay ===
-Contributors: (add your wordpress.org user id)
+
+Contributors: @onetkhay
 Donate link: https://tiekuasare.com/
 Tags: coming soon, under construction, landing page, maintenance mode
 Requires at least: 5.0
